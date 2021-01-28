@@ -7,8 +7,11 @@ Replace stb_ip = ip stb
 Example Http Get:
 
 192.168.1.10/irkey?action=left
+
 192.168.1.10/irkey?action=right
+
 192.168.1.10/irkey?action=up
+
 192.168.1.10/irkey?action=down
 
 Menu button
