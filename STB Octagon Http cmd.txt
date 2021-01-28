@@ -1,0 +1,10 @@
+stb_ IP/irkey?action=left
+stb_ IP/irkey?action=right
+stb_ IP/irkey?action=up
+stb_ IP/irkey?action=down
+stb_ IP/irkey?action=menu
+stb_ IP/irkey?action=exit
+stb_ IP/irkey?action=volumeup
+stb_ IP/irkey?action=volumedown
+stb_ IP/irkey?action=mute
+stb_ IP/irkey?action=ok
