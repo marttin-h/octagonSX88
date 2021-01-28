@@ -8,3 +8,7 @@ stb_ IP/irkey?action=volumeup
 stb_ IP/irkey?action=volumedown
 stb_ IP/irkey?action=mute
 stb_ IP/irkey?action=ok
+stb_ IP/irkey?action=red
+stb_ IP/irkey?action=yellow
+stb_ IP/irkey?action=green
+stb_ IP/irkey?action=blue
